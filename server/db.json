@@ -1,0 +1,244 @@
+{
+  "category": [
+    {
+      "id": "",
+      "name": "Categories"
+    },
+    {
+      "id": "cat001",
+      "name": "THAI"
+    },
+    {
+      "id": "cat002",
+      "name": "SEAFOOD"
+    },
+    {
+      "id": "cat003",
+      "name": "JAPANESE"
+    },
+    {
+      "id": "cat004",
+      "name": "INDONESIA"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "catId": "cat001",
+      "catName": "THAI",
+      "name": "Mie Tomyam Pak Budi",
+      "image": "https://asset.kompas.com/crops/i8rf6NMWYSIn4xRKIaQp2QbvQF4=/0x0:1000x667/750x500/data/photo/2021/05/17/60a24a3b1868b.jpg",
+      "rating": 3,
+      "price": "10.000 - 30.000",
+      "priceId": "p1",
+      "open": true,
+      "review": [
+        {
+          "name": "Budi Santoso",
+          "image": "https://asset.kompas.com/crops/i8rf6NMWYSIn4xRKIaQp2QbvQF4=/0x0:1000x667/750x500/data/photo/2021/05/17/60a24a3b1868b.jpg",
+          "desc": "Mie nya enak dan lembut lebih diperkuat lagi rasa kuahnya",
+          "rate": 3
+        },
+        {
+          "name": "Joko John",
+          "image": "https://img-global.cpcdn.com/recipes/3d67d4638cbb3255/400x400cq70/photo.jpg",
+          "desc": "Liat di Grabfood dan GO-FOOD cobain Dimsum Bakar, Sosis Bakar Jumbo, dan Bakso Salmon enak rasa pas bumbunya berasa premium, walaupun harga terjangkau",
+          "rate": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "catId": "cat002",
+      "catName": "SEAFOOD",
+      "name": "D'Cost",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2022/02/06/cara-makan-seafood-1.jpeg?w=1200",
+      "rating": 4,
+      "price": "75.000 - 150.000",
+      "priceId": "p3",
+      "open": false,
+      "review": [
+        {
+          "name": "Budi Santoso",
+          "image": "https://asset.kompas.com/crops/i8rf6NMWYSIn4xRKIaQp2QbvQF4=/0x0:1000x667/750x500/data/photo/2021/05/17/60a24a3b1868b.jpg",
+          "desc": "Mie nya enak dan lembut lebih diperkuat lagi rasa kuahnya",
+          "rate": 3
+        },
+        {
+          "name": "Joko John",
+          "image": "https://img-global.cpcdn.com/recipes/3d67d4638cbb3255/400x400cq70/photo.jpg",
+          "desc": "Liat di Grabfood dan GO-FOOD cobain Dimsum Bakar, Sosis Bakar Jumbo, dan Bakso Salmon enak rasa pas bumbunya berasa premium, walaupun harga terjangkau",
+          "rate": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "catId": "cat003",
+      "catName": "JAPANESE",
+      "name": "SUSHI HIRO",
+      "image": "https://images.tokopedia.net/img/JFrBQq/2022/9/20/ad455a0d-4f8a-4bc2-a269-46dfd6a78fb1.jpg",
+      "rating": 4,
+      "price": "75.000 - 150.000",
+      "priceId": "p3",
+      "open": false,
+      "review": [
+        {
+          "name": "Budi Santoso",
+          "image": "https://asset.kompas.com/crops/i8rf6NMWYSIn4xRKIaQp2QbvQF4=/0x0:1000x667/750x500/data/photo/2021/05/17/60a24a3b1868b.jpg",
+          "desc": "Mie nya enak dan lembut lebih diperkuat lagi rasa kuahnya",
+          "rate": 3
+        },
+        {
+          "name": "Joko John",
+          "image": "https://img-global.cpcdn.com/recipes/3d67d4638cbb3255/400x400cq70/photo.jpg",
+          "desc": "Liat di Grabfood dan GO-FOOD cobain Dimsum Bakar, Sosis Bakar Jumbo, dan Bakso Salmon enak rasa pas bumbunya berasa premium, walaupun harga terjangkau",
+          "rate": 4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "catId": "cat004",
+      "catName": "INDONESIA",
+      "name": "Bakmi GM",
+      "image": "https://images.tokopedia.net/img/KRMmCm/2022/10/20/dcf7ae1a-38e1-458d-b533-bfb5a2b157d1.jpg",
+      "rating": 5,
+      "price": "50.000 - 75.000",
+      "priceId": "p2",
+      "open": false,
+      "review": [
+        {
+          "name": "Budi Santoso",
+          "image": "https://asset.kompas.com/crops/i8rf6NMWYSIn4xRKIaQp2QbvQF4=/0x0:1000x667/750x500/data/photo/2021/05/17/60a24a3b1868b.jpg",
+          "desc": "Mie nya enak dan lembut lebih diperkuat lagi rasa kuahnya",
+          "rate": 3
+        },
+        {
+          "name": "Joko John",
+          "image": "https://img-global.cpcdn.com/recipes/3d67d4638cbb3255/400x400cq70/photo.jpg",
+          "desc": "Liat di Grabfood dan GO-FOOD cobain Dimsum Bakar, Sosis Bakar Jumbo, dan Bakso Salmon enak rasa pas bumbunya berasa premium, walaupun harga terjangkau",
+          "rate": 4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "catId": "cat004",
+      "catName": "INDONESIA",
+      "name": "Solaria",
+      "image": "https://assets-a1.kompasiana.com/items/album/2022/05/27/whatsapp-image-2022-05-27-at-23-05-58-6290fdf453e2c3770b60a3f2.jpeg",
+      "rating": 5,
+      "price": "50.000 - 75.000",
+      "priceId": "p2",
+      "open": true,
+      "review": [
+        {
+          "name": "Budi Santoso",
+          "image": "https://asset.kompas.com/crops/i8rf6NMWYSIn4xRKIaQp2QbvQF4=/0x0:1000x667/750x500/data/photo/2021/05/17/60a24a3b1868b.jpg",
+          "desc": "Mie nya enak dan lembut lebih diperkuat lagi rasa kuahnya",
+          "rate": 3
+        },
+        {
+          "name": "Joko John",
+          "image": "https://img-global.cpcdn.com/recipes/3d67d4638cbb3255/400x400cq70/photo.jpg",
+          "desc": "Liat di Grabfood dan GO-FOOD cobain Dimsum Bakar, Sosis Bakar Jumbo, dan Bakso Salmon enak rasa pas bumbunya berasa premium, walaupun harga terjangkau",
+          "rate": 4
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "catId": "cat003",
+      "catName": "JAPANESE",
+      "name": "Ichiban Sushi",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gerai_Ichiban_Sushi.jpg/1280px-Gerai_Ichiban_Sushi.jpg",
+      "rating": 4,
+      "price": "50.000 - 75.000",
+      "priceId": "p2",
+      "open": true,
+      "review": [
+        {
+          "name": "Budi Santoso",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/ad/5a/da/20190227-201218-largejpg.jpg",
+          "desc": "Tempatnya nyaman dan makannya cukup enak serta porsinya cukup banyak. Untuk tipe nasinya enak cuman memang bumbunya kurang banget...",
+          "rate": 3
+        },
+        {
+          "name": "Joko John",
+          "image": "https://www.gotravelly.com/blog/wp-content/uploads/2022/09/Salmon-Cheese-Roll.jpg",
+          "desc": "So far oke sih dsini. Cm nasinya krg oke ya untuk ukuran resto jepang. Jd gimana gt makan sushinya. Krg puas aja.",
+          "rate": 4
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "catId": "cat001",
+      "catName": "THAI",
+      "name": "Bolan Thai street kitchen",
+      "image": "https://www.rukita.co/stories/wp-content/uploads/2019/11/thai-street.jpg",
+      "rating": 4,
+      "price": "50.000 - 75.000",
+      "priceId": "p2",
+      "open": true,
+      "review": [
+        {
+          "name": "Budi Santoso",
+          "image": "https://asset.kompas.com/crops/i8rf6NMWYSIn4xRKIaQp2QbvQF4=/0x0:1000x667/750x500/data/photo/2021/05/17/60a24a3b1868b.jpg",
+          "desc": "Mie nya enak dan lembut lebih diperkuat lagi rasa kuahnya",
+          "rate": 3
+        },
+        {
+          "name": "Joko John",
+          "image": "https://img-global.cpcdn.com/recipes/3d67d4638cbb3255/400x400cq70/photo.jpg",
+          "desc": "Liat di Grabfood dan GO-FOOD cobain Dimsum Bakar, Sosis Bakar Jumbo, dan Bakso Salmon enak rasa pas bumbunya berasa premium, walaupun harga terjangkau",
+          "rate": 4
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "catId": "cat002",
+      "catName": "SEAFOOD",
+      "name": "Bandar Djakarta",
+      "image": "https://sikidang.com/wp-content/uploads/Bandar-Djakarta-Jakarta.jpg",
+      "rating": 5,
+      "price": "75.000 - 150.000",
+      "priceId": "p3",
+      "open": true,
+      "review": [
+        {
+          "name": "Budi Santoso",
+          "image": "https://t-2.tstatic.net/travel/foto/bank/images/restoran-bandar-djakarta-menu.jpg",
+          "desc": "Restoran seafood premium yang cantik di kawasan flavor bliss / broadwalk alam sutera. Suasana semi open space sangat cocok di masa pandemi Covid, yang relatif sejuk. Makanan juga sangat lezat, dan sistem order yang baik melayani request customer. Pilihan seafood segar dengan harga premium dan penyajian yang leza",
+          "rate": 5
+        },
+        {
+          "name": "Joko John",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/02/5d/30/25/bandar-djakarta-seafood.jpg",
+          "desc": "Masakan enak, ada seafood segar yg bisa dipilih. Ada ruang VIP juga yg pakai AC. Walau ramai, pelayanan cepat.",
+          "rate": 5
+        }
+      ]
+    }
+  ],
+  "price": [
+    {
+      "priceId": "",
+      "range": "Price"
+    },
+    {
+      "priceId": "p1",
+      "range": "10.000 - 30.000"
+    },
+    {
+      "priceId": "p2",
+      "range": "50.000 - 75.000"
+    },
+    {
+      "priceId": "p3",
+      "range": "75.000 - 150.000"
+    }
+  ]
+}
