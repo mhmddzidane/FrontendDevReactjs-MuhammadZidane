@@ -14,4 +14,6 @@ Masuk ke dalam folder server di projek ini dan jalankan perintah:
 
 ### `npm start`
 
+Link Deployment : https://frontend-dev-reactjs-muhammad-zidane-rnmmtzugk-mhmddzidane.vercel.app/
+
 Versi React : 18.2.0
